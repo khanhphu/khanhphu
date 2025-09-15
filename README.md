@@ -6,7 +6,7 @@
 
 ## 📫 How to Reach Me  
 
-[![My CV](https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1IuV2sBx19j29N2FWBSTMUJmcTQUJDP3A/view?usp=sharing)  
+[![My CV](https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/u/2/my-drive)  
 
 [![My Email](https://img.shields.io/badge/My%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nghkphung95@gmail.com)  
 
